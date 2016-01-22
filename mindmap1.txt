@@ -1,0 +1,10 @@
+rmindmap
+  usa
+    MindMup
+    R
+  sencillo
+    sólo texto
+    un comando
+        rmindmap
+    
+        
